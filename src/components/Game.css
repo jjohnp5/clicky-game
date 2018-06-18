@@ -1,0 +1,15 @@
+img{
+    margin: 5px 0;
+}
+
+img:hover{
+    cursor: pointer;
+    width: 40%;
+}
+.item{
+    min-height: 200px;
+}
+h3,h4{
+    margin: 2px;
+    text-align: center;
+}
